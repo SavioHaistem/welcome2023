@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap');
+
+body {
+    color: white;
+    background-image: linear-gradient( to right, rgb(0, 88, 176), rgb(0, 192, 137) );
+}
+
+.title, h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Bebas Neue';
+    letter-spacing: 3px;
+}
+
